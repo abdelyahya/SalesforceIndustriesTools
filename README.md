@@ -24,16 +24,6 @@ This repository serves as a comprehensive collection of utilities, libraries, an
   
 3. Follow the individual README files for instructions on how to use each tool.
 
-## Contribution Guidelines
-
-We welcome contributions from the Salesforce Industries community. If you'd like to contribute:
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-branch-name`).
-3. Make your changes.
-4. Push your changes to the branch (`git push origin feature-branch-name`).
-5. Create a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
